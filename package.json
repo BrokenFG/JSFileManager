@@ -1,0 +1,13 @@
+{
+  "name": "JSFileManager",
+  "version": "1.0.0",
+  "description": "A simple file manager for Node.js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
